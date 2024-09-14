@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://piontine.github.io/sitemap.html.gz
+Sitemap: https://piontine.github.io/app/sitemap.html.gz
+Sitemap: https://piontine.github.io/assets/sitemap.html.gz
+Sitemap: https://piontine.github.io/css/sitemap.html.gz
+Sitemap: https://piontine.github.io/includes/sitemap.html.gz
+Sitemap: https://piontine.github.io/item/sitemap.html.gz
+Sitemap: https://piontine.github.io/src/sitemap.html.gz
